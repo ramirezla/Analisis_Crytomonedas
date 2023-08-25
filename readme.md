@@ -6,7 +6,7 @@ Usuario GitHub: `ramirezla`<br>
 Email Github: `ramirezluisalberto@hotmail.com`<br>
 Email usuario Henry: `ramirezgluisalberto@gmail.com`<br>
 
-### Repositorio: PROYECTO INDIVIDUAL Nº1<br>
+### Repositorio: PROYECTO INDIVIDUAL Nº2<br>
 https: https://github.com/ramirezla/LARG_PI_DA-main.git<br>
 ssh: git@github.com:ramirezla/LARG_PI_DA-main.git<br>
 Branch: `main`<br>
@@ -34,40 +34,42 @@ requests            2.27.1<br>
 <h1 align='center'>
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
- 
+
 # <h1 align="center">**`Cryptocurrency Market Data Analytics`**</h1>
 
-- - - 
+- - -
+### `El mercado de las criptomonedas ha experimentado un crecimiento exponencial en los últimos años, atrayendo la atención de inversores, traders y entusiastas de todo el mundo. A medida que este mercado evoluciona y se vuelve más complejo, surge la necesidad de comprender y analizar los datos relacionados con las criptomonedas.` 
+- - -
 
 ### `Algunos criterios generales que deben ser utilizados al momento de selecconar criptomonedas`
 
-- Capitalización de mercado: La capitalización de mercado es el valor total de todas las monedas en circulación. Puedes considerar aquellas criptomonedas con una capitalización de mercado alta, ya que generalmente son más estables y tienen mayor liquidez.
+- `Capitalización de mercado:` La capitalización de mercado es el valor total de todas las monedas en circulación. Se puede considerar aquellas criptomonedas con una capitalización de mercado alta, ya que generalmente son más estables y tienen mayor liquidez.
 
-- Equipo de desarrollo: Investiga sobre el equipo detrás de cada criptomoneda. Revisa su experiencia, trayectoria y reputación en la industria. Un equipo sólido y con experiencia puede indicar un mayor potencial de éxito.
+- `Equipo de desarrollo:` Investiga sobre el equipo detrás de cada criptomoneda. Revisa su experiencia, trayectoria y reputación en la industria. Un equipo sólido y con experiencia puede indicar un mayor potencial de éxito.
 
-- Tecnología y uso: Examina la tecnología subyacente de cada criptomoneda y su caso de uso. Evalúa si la tecnología es innovadora, escalable y tiene un propósito real en el mundo real. Las criptomonedas con casos de uso prácticos y una tecnología sólida tienden a tener un mayor potencial de crecimiento.
+- `Tecnología y uso:` Examina la tecnología subyacente de cada criptomoneda y su caso de uso. Evalúa si la tecnología es innovadora, escalable y tiene un propósito real en el mundo real. Las criptomonedas con casos de uso prácticos y una tecnología sólida tienden a tener un mayor potencial de crecimiento.
 
-- Comunidad y adopción: Observa el nivel de participación y apoyo de la comunidad en torno a cada criptomoneda. Una comunidad activa y comprometida puede ser un indicador de un mayor interés y adopción de la moneda.
+- `Comunidad y adopción:` Observa el nivel de participación y apoyo de la comunidad en torno a cada criptomoneda. Una comunidad activa y comprometida puede ser un indicador de un mayor interés y adopción de la moneda.
 
-- Liquidez: Considera la liquidez de cada criptomoneda. Una mayor liquidez facilita la compra y venta de la moneda, lo que puede ser importante si deseas operar con frecuencia.
+- `Liquidez:` Considera la liquidez de cada criptomoneda. Una mayor liquidez facilita la compra y venta de la moneda, lo que puede ser importante si deseas operar con frecuencia.
 
-- Seguridad: Investiga la seguridad de cada criptomoneda. Examina si han tenido problemas de seguridad en el pasado y si cuentan con medidas de seguridad sólidas, como el uso de criptografía y auditorías de seguridad.
+- `Seguridad:` Investiga la seguridad de cada criptomoneda. Examina si han tenido problemas de seguridad en el pasado y si cuentan con medidas de seguridad sólidas, como el uso de criptografía y auditorías de seguridad.
 
-- Actualizaciones y desarrollo continuo: Considera si la criptomoneda está recibiendo actualizaciones y mejoras constantes. Un desarrollo continuo indica un equipo activo y comprometido, lo que puede ser positivo para el futuro de la moneda.
+- `Actualizaciones y desarrollo continuo:` Considera si la criptomoneda está recibiendo actualizaciones y mejoras constantes. Un desarrollo continuo indica un equipo activo y comprometido, lo que puede ser positivo para el futuro de la moneda.
 
-- Análisis técnico y fundamentos: Puedes realizar un análisis técnico y fundamental de cada criptomoneda para evaluar su potencial de crecimiento. Esto implica analizar gráficos de precios, indicadores técnicos y noticias relacionadas con la moneda.
+- `Análisis técnico y fundamentos:` Puedes realizar un análisis técnico y fundamental de cada criptomoneda para evaluar su potencial de crecimiento. Esto implica analizar gráficos de precios, indicadores técnicos y noticias relacionadas con la moneda.
 
-- Diversificación: Es recomendable diversificar tu cartera de criptomonedas para reducir el riesgo. Puedes seleccionar criptomonedas de diferentes categorías, como monedas principales, tokens de plataforma, tokens de finanzas descentralizadas (DeFi), etc.
+- `Diversificación:` Es recomendable diversificar tu cartera de criptomonedas para reducir el riesgo. Puedes seleccionar criptomonedas de diferentes categorías, como monedas principales, tokens de plataforma, tokens de finanzas descentralizadas (DeFi), etc.
 
-- Investigación personal: Por último, investiga y haz tu propia diligencia debida. Lee opiniones, noticias y análisis de expertos en criptomonedas, pero siempre toma tus propias decisiones informadas.
+- `Investigación personal:` Investiga y haz tu propia diligencia debida. Lee opiniones, noticias y análisis de expertos en criptomonedas, pero siempre toma tus propias decisiones informadas.
 
-- Análisis de la comunidad: Observa la comunidad que rodea a cada criptomoneda. Puedes unirte a sus foros, grupos de Telegram, canales de Discord o redes sociales para obtener una idea de la participación y el sentimiento de la comunidad. Presta atención a las discusiones sobre actualizaciones, eventos futuros y adopción de la criptomoneda.
+- `Análisis de la comunidad:` Observa la comunidad que rodea a cada criptomoneda. Puedes unirte a sus foros, grupos de Telegram, canales de Discord o redes sociales para obtener una idea de la participación y el sentimiento de la comunidad. Presta atención a las discusiones sobre actualizaciones, eventos futuros y adopción de la criptomoneda.
 
-- Análisis de la competencia: Compara las criptomonedas dentro del top 10 y analiza cómo se posicionan en relación con su competencia. Observa cómo se diferencian en términos de tecnología, casos de uso, asociaciones estratégicas y adopción real. Esto te ayudará a evaluar su potencial a largo plazo y su capacidad para mantenerse competitivas en el mercado.
+- `Análisis de la competencia:` Compara las criptomonedas dentro del top 10 y analiza cómo se posicionan en relación con su competencia. Observa cómo se diferencian en términos de tecnología, casos de uso, asociaciones estratégicas y adopción real. Esto te ayudará a evaluar su potencial a largo plazo y su capacidad para mantenerse competitivas en el mercado.
 
-- Análisis de la capitalización de mercado: Observa la capitalización de mercado de cada criptomoneda y cómo ha evolucionado a lo largo del tiempo. Analiza las tendencias históricas y considera si hay factores que puedan afectar su valor en el futuro.
+- `Análisis de la capitalización de mercado:` Observa la capitalización de mercado de cada criptomoneda y cómo ha evolucionado a lo largo del tiempo. Analiza las tendencias históricas y considera si hay factores que puedan afectar su valor en el futuro.
 
-### `Selección de criptomonedas basado en su similitud de su potencial y riesgo:`
+### `Selección de criptomonedas ha utilizar en el presente estudio, ésta selección se basó en sus similitud con respecto a su potencial y riesgo:`
 
 - `Ethereum (ETH)`: Es una plataforma de código abierto que permite crear y ejecutar contratos inteligentes y aplicaciones descentralizadas. Su moneda nativa es el ether (ETH), que se usa para pagar las transacciones y los servicios en la red. Ethereum utiliza un mecanismo de consenso basado en la prueba de trabajo, pero planea migrar a la prueba de participación en un futuro próximo.
 
