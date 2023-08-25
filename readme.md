@@ -12,7 +12,7 @@ ssh: git@github.com:ramirezla/LARG_PI_DA-main.git<br>
 Branch: `main`<br>
 
 *`NOTA`<br>*
-*Repositorio históricos: `Solo para consultas`:<br>
+*Repositorio históricos: `Solo para consultas`:<br>*
 https: ~~https://github.com/ramirezla/LARG_PI_DA-main-final.git~~<br>
 ssh: ~~git@github.com:ramirezla/LARG_PI_DA-main-final.git~~<br>
 Branch: `main-win`<br>
