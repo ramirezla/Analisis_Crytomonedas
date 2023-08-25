@@ -7,7 +7,9 @@ Email Github: `ramirezluisalberto@hotmail.com`<br>
 Email usuario Henry: `ramirezgluisalberto@gmail.com`<br>
 
 ### Repositorio: PROYECTO INDIVIDUAL Nº1<br>
-
+https: https://github.com/ramirezla/LARG_PI_DA-main.git<br>
+ssh: git@github.com:ramirezla/LARG_PI_DA-main.git<br>
+Branch: `main`<br>
 
 Branch: `main-win`
 
@@ -16,9 +18,6 @@ Branch: `main-win`
 https: ~~https://github.com/ramirezla/LARG_PI_DA-main-final.git~~<br>
 ssh: ~~git@github.com:ramirezla/LARG_PI_DA-main-final.git~~<br>
 Branch: `main-win`<br>
-https: ~~https://github.com/ramirezla/LARG_PI_DA-main.git~~<br>
-ssh: ~~git@github.com:ramirezla/LARG_PI_DA-main.git~~<br>*
-Branch: `main`<br>
 
 
 ### Versiones paquetes utilizados: <br>
