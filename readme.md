@@ -11,8 +11,6 @@ https: https://github.com/ramirezla/LARG_PI_DA-main.git<br>
 ssh: git@github.com:ramirezla/LARG_PI_DA-main.git<br>
 Branch: `main`<br>
 
-Branch: `main-win`
-
 *`NOTA`<br>*
 *Repositorio históricos: `Solo para consultas`:<br>
 https: ~~https://github.com/ramirezla/LARG_PI_DA-main-final.git~~<br>
