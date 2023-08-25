@@ -97,25 +97,29 @@ Id (nombres): [`ethereum, cardano, polkadot, chainlink, vechain, cosmos, tezos, 
 
 ### `Análisis basados en algunos enfoques`
 
-- Análisis técnico: El análisis técnico se basa en patrones de precios pasados y datos del mercado para predecir movimientos futuros en el precio de una criptomoneda. Puedes aprender los conceptos básicos del análisis técnico y utilizar herramientas como gráficos y indicadores para evaluar el rendimiento de una criptomoneda.
+- `Análisis técnico:` El análisis técnico se basa en patrones de precios pasados y datos del mercado para predecir movimientos futuros en el precio de una criptomoneda. Puedes aprender los conceptos básicos del análisis técnico y utilizar herramientas como gráficos y indicadores para evaluar el rendimiento de una criptomoneda.
 
-- Redes sociales y comunidades: Participa en comunidades en línea y redes sociales dedicadas a las criptomonedas. Observa las discusiones y opiniones de la comunidad sobre las criptomonedas que estás evaluando. Sin embargo, ten en cuenta que estas opiniones pueden ser subjetivas y estar influenciadas por sesgos individuales.
+- `Redes sociales y comunidades:` Participa en comunidades en línea y redes sociales dedicadas a las criptomonedas. Observa las discusiones y opiniones de la comunidad sobre las criptomonedas que estás evaluando. Sin embargo, ten en cuenta que estas opiniones pueden ser subjetivas y estar influenciadas por sesgos individuales.
 
-- Investigación de noticias y eventos: Mantente actualizado sobre las noticias y eventos relacionados con las criptomonedas que estás evaluando. Las noticias pueden proporcionar información sobre asociaciones estratégicas, adopción, actualizaciones de desarrollo y cambios regulatorios que pueden afectar el valor de una criptomoneda.
+- `Investigación de noticias y eventos:` Mantente actualizado sobre las noticias y eventos relacionados con las criptomonedas que estás evaluando. Las noticias pueden proporcionar información sobre asociaciones estratégicas, adopción, actualizaciones de desarrollo y cambios regulatorios que pueden afectar el valor de una criptomoneda.
 
-### `Datos con los que se realizara un analisis tecnico:`
+### `Datos y calculos con los que se realizara un analisis tecnico de cada criptomoneda:`
 
-- Precios históricos: Obtén datos históricos de precios de diferentes criptomonedas. Esto te permitirá analizar el rendimiento pasado de una criptomoneda y identificar tendencias o patrones de precios.
+- `El máximo histórico y el mínimo histórico:` Estos valores representan los niveles más altos y más bajos que ha alcanzado el precio de una criptomoneda desde su creación o desde un período de tiempo específico.
 
-- Volumen de operaciones: Accede al volumen de operaciones de una criptomoneda en diferentes intervalos de tiempo. El volumen de operaciones puede proporcionar información sobre la actividad y la liquidez de una criptomoneda.
+- `Volumen del mercado:` es la cantidad total de criptomonedas que se negocian en un mercado durante un período de tiempo determinado. Representa la cantidad de activos que se compran y venden en el mercado en un período de tiempo específico.
 
-- Indicadores técnicos: Algunas APIs pueden proporcionar indicadores técnicos populares, como medias móviles, bandas de Bollinger, MACD, RSI, entre otros. Estos indicadores pueden ayudarte a identificar señales de compra o venta y a evaluar la fortaleza de una tendencia.
+- `Capacidad del mercado:` Se refiere a la capacidad del mercado para absorber operaciones de compra y venta sin causar una fluctuación significativa en los precios. En otras palabras, es la medida de la capacidad del mercado para manejar grandes volúmenes de transacciones sin que esto tenga un impacto desproporcionado en los precios.
 
-- Órdenes de compra y venta: Obtén información sobre las órdenes de compra y venta en tiempo real. Esto puede brindarte una idea de la demanda y la oferta en el mercado y ayudarte a identificar niveles de soporte y resistencia.
+- `Datos de operaciones:` Se obtienen datos de operaciones de apertura, cierre, alta y baja de las operaciones de las criptomonedas que pueden proporcionar información sobre transacciones.
 
-- Capitalización de mercado: Accede a la capitalización de mercado de una criptomoneda. La capitalización de mercado puede ser útil para comparar el tamaño relativo de diferentes criptomonedas y evaluar su posición en el mercado.
+- `Volatilidad:` Es un calculo que se refiere a la magnitud de los cambios de precio o la variabilidad de los precios en un período de tiempo determinado. En pocas palabras, indica cuánto fluctúa el valor de una criptomoneda en el mercado.
 
-- Datos de blockchain: Algunas APIs pueden proporcionar información sobre transacciones, bloques minados y otras métricas relacionadas con la tecnología blockchain de una criptomoneda. Esto puede ser relevante si deseas analizar aspectos técnicos más profundos de una criptomoneda.
+- `Rendimiento:` Es un calculo que se refiere al cambio porcentual en el valor de la criptomoneda durante un periodo específico. Es una medida que indica cómo ha evolucionado el precio de la criptomoneda en un período de tiempo.
+
+- `Media móvil:` Es un calculo utilizado en el análisis técnico para suavizar los datos de precios de una criptomoneda y ayudar a identificar tendencias a largo plazo.
+
+- `Capitalización de mercado:` Es un calculo Se accede a la capitalización de mercado de una criptomoneda. La capitalización de mercado puede ser útil para comparar el tamaño relativo de diferentes criptomonedas y evaluar su posición en el mercado.
 
 ### Librerias en Python
 
